@@ -1,3 +1,1 @@
-ip3.txt
-README.md
-script.sh
+79.250.177.123
