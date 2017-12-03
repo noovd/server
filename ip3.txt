@@ -1,1 +1,3 @@
-79.250.177.123
+ip3.txt
+README.md
+script.sh
